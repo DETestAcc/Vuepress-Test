@@ -6,7 +6,7 @@ actionLink: /basic/
 features:
 - title: Deploy smarter
   details: Reduce workload
-- title: Deploy faster
+- title: Deploy faster with more automation
   details: Be faster
 - title: Deploy Now
   details: At your side
